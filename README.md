@@ -2,7 +2,7 @@
 We are uploading a recorded video on personal youtube storage. please check the link below.
 
 Objective: 
-Paper reading/discussion on VL models (not limited to medical domain; md (medical domain) -> gd (general domain) -> md -> gd ...)
+Paper reading/discussion on VL models (not limited to md (medical domain);  md -> gd (general domain) -> md -> gd ...)
 
 
 Time: 
