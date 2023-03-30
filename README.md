@@ -16,7 +16,7 @@ Participants:
 
 |       Publish    | AKA | Paper | Topic | TL;DR |Link |  Review |
 |:----------------:|:------:|:------:|:----------------------------------------:|:----------:|:------:|:------:|
-| arxiv 23 / MS | Kosmos-1 | Language Is Not All You Need: Aligning Perception with Language Models | parametric model | training from the scratch with VLM + LLM | [Paper](https://arxiv.org/abs/2302.14045) |  |
+| arxiv 23 / MS | Kosmos-1 | Language Is Not All You Need: Aligning Perception with Language Models | parametric model | training from the scratch with VLM + LLM | [Paper](https://arxiv.org/abs/2302.14045) | Jonghak  |
 | Nips 22 / Sales force| Flamingo | Flamingo: a Visual Language Model for Few-Shot Learning | parametric model  | efficient training from frozen LLM, VLM | [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/960a172bc7fbf0177ccccbb411a7d800-Abstract-Conference.html) |  |
 | arxiv 23 / Deep mind | Blip2 | BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models | parametric model| efficient training from frozen LLM, VLM | [Paper](https://arxiv.org/abs/2301.12597) |  |
  
