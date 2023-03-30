@@ -2,15 +2,19 @@
 
 Objective: 
 Paper reading/discussion on VL models (not limited to medical domain)
+cxr 
 
 Time: 
 Thur 10:30 AM - 11:30 AM
 
 Agenda: 
-3 people present for 40 min / the rest is the discussion and upload a recorded video on personal youtube storage.
+1 people present for 40 min / the rest is the discussion and upload a recorded video on personal youtube storage.
+
 
 Participants: 
 종학, 성수, 현경
+c ,g c g c g(discussion focus c -> g, g _> c,) ss,hg,jh
+
 
 ## **Paper List**:
 
