@@ -38,6 +38,11 @@ Participants :
 | 2023.04.06 | Week01 | Jonghak | parametric model | BioViL-T | [Slides](https://docs.google.com/presentation/d/17VjF3-9yhSbvpwsgixYbZua13HhTP_Nkxb-JHRLqRBg/edit?usp=sharing) | |
 | 2023.04.13 | Week02 | Hyungyung | . | EPIC | [Slides](https://docs.google.com/presentation/d/1iy0Atqm-u3R-qyUaRvycpHg4YYx5XJ0FTVs3cTi6Yx4/edit?usp=sharing) | |
 | 2023.04.20 | Week03 | Seongsu | textual inversion | . | None | |
+| 2023.04.27 | Week04 | Jonghak | Zero convoluton | ControlNet | . | |
+| 2023.05.04 | Week05 | Hyungyung | CXR Generation | Cheff | None | |
+| 2023.05.11 | Week06 | Seongsu | PETL, Multimodal  | LLaMA-Adapter, -V2 | . | |
+| 2023.05.18 | Week07 | Jonghak | Region-guided generation | RGRG | Slides | |
+| 2023.05.25 | Week08 | Hyungyung | Compositionality | MosaiCLIP | None | |
 
 
 
