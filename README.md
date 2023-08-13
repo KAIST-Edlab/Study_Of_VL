@@ -23,8 +23,13 @@ Paper reading/discussion on VL models (not limited to md (medical domain);  md -
 Thur 10:30 AM - 11:30 AM
 
 
-###  Participants and presentation order: 
-(KAIST-Edlab) 종학, 현경, 성수, (KAIST-MLIlab) 한결
+### Participants and presentation order: 
+(KAIST-Edlab, 2023-04-06 Joined) 종학, 현경, 성수
+
+(KAIST-MLIlab, 2023-07-27 Joined) 한결
+
+
+### Presentation order
 종학 -> 현경 -> 한결 -> 성수
 
 
