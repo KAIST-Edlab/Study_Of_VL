@@ -15,21 +15,16 @@ KAIST AI 대학원의 박사과정 학생으로 구성된 우리 그룹은 의�
 We will upload a recorded video on personal youtube storage. please check the link below.
 
 
-Objective: 
+### Objective: 
 Paper reading/discussion on VL models (not limited to md (medical domain);  md -> gd (general domain) -> md -> gd ...)
 
 
-Time: 
+### Time: 
 Thur 10:30 AM - 11:30 AM
 
-Agenda: 
-1 people present for about 40 min / the rest is the discussion.
 
-
-Participants : 
+###  Participants and presentation order: 
 (KAIST-Edlab) 종학, 현경, 성수, (KAIST-MLIlab) 한결
-
-Presentation Order:
 종학 -> 현경 -> 한결 -> 성수
 
 
