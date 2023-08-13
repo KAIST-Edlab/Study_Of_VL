@@ -28,20 +28,8 @@ Thur 10:30 AM - 11:30 AM
 종학 -> 현경 -> 한결 -> 성수
 
 
-## **Paper List**:
 
-|       Publish    | AKA | Paper | Topic | TL;DR |Link |  Review |
-|:----------------:|:------:|:------:|:----------------------------------------:|:----------:|:------:|:------:|
-| arxiv 23 / MS | BioViL-T | Learning to Exploit Temporal Structure for Biomedical Vision–Language Processing | parametric model | prior study, vision-language encoder, BERT-like decoder, VLM + LLM | [Paper](https://arxiv.org/pdf/2301.04558.pdf) | Jonghak (week1)  |
-| CVPR 23 / HKUST | EPIC | Leveraging per Image-Token Consistency for Vision-Language Pre-training | . | CMLM, saliency based masking, inconsistent token generation and prediction task | [Paper](https://arxiv.org/pdf/2211.15398.pdf) | Hyungyung (week2) |
-| arxiv 23 / Radboud University Medical Center | . | Medical diffusion on a budget: textual inversion for medical image generation | textual inversion | Stable Diffusion models can adapt to medical imaging modalities using textual inversion (100 samples) | [Paper](https://arxiv.org/abs/2303.13430) | Seongsu (week3) |
-
- 
-
-
-
-
-## **Paper-study**:
+## **Paper-Review**:
 
 
 |       Date       | Week | Presenter |Topic |  Paper | Material | Link|
@@ -54,7 +42,14 @@ Thur 10:30 AM - 11:30 AM
 | 2023.05.11 | Week06 | Seongsu | PETL, Multimodal  | LLaMA-Adapter, -V2 | None | |
 | 2023.05.18 | Week07 | Jonghak | Region-guided generation | RGRG | Slides | |
 | 2023.05.25 | Week08 | Hyungyung | Compositionality | MosaiCLIP | None | |
-
-
-
-
+| 2023.06.01 | None | None | None | None | None | |
+| 2023.06.08 | None | None | None | None | None | |
+| 2023.06.15 | Week9 | Seongsu | Topic TBD | VisualGPTScore: Visio-Linguistic Reasoning with Multimodal Generative Pre-Training Scores  | None | |
+| 2023.06.22 | Week10 | Jonghak | Open-set detection in medical | ICLR Paper,  | None | |
+| 2023.06.29 | Week11 | Hyungyung | Topic TBD | Paper TBD | None | |
+| 2023.07.06 | Week12 | Seongsu | Topic TBD | Evaluating Progress in Automatic Chest X-Ray Radiology Report Generation | None | |
+| 2023.07.13 | Week13 | Jonghak | Topic TBD |  GPT4RoI: Instruction Tuning Large Language Model on Region-of-Interest | None | |
+| 2023.07.20 | Week14 | Hyungyung | Topic TBD | Reading Radiology Imaging Like The Radiologists | None | |
+| 2023.07.27 | Week15 | Seongsu | Topic TBD | Paper TBD | None | |
+| 2023.08.03 | None | None | None | None | None | |
+| 2023.08.10 | Week16 | Jonghak | First In-context learning in medical | MedFlamingo | None | |
