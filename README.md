@@ -1,5 +1,19 @@
 # CXR VL research group
-We are uploading a recorded video on personal youtube storage. please check the link below.
+We're a group of doctoral students from KAIST's AI Graduate School, and we're all about multi-modal (vision-language) research in the medical field. 
+Our aim is to continuously expand our knowledge and experience beyond traditional boundaries by deeply analyzing the essence of AI and the unique characteristics of the medical domain.
+
+Every Thursday, we get together to review papers on the multi-modal research conducted in both general and medical fields, actively exploring the endless possibilities of AI through analysis and discussion. 
+If you're interested in our study, especially if you have a background in medical or AI fields, we'd love for you to join us and grow together. (contact: jhak.moon@kaist.ac.kr)
+
+
+KAIST AI 대학원의 박사과정 학생으로 구성된 우리 그룹은 의료 분야의 멀티모달(시각-언어) 연구에 전념하고 있습니다. 
+인공지능의 본질과 의료 도메인의 특성을 깊이 연구하면서, 기존의 경계를 초월하여 우리의 지식과 경험을 지속적으로 확장하고자 합니다.
+
+우리 그룹은 일반 분야와 의료 분야에서 진행되는 멀티모달 연구의 논문을 매주 선정하여 리뷰하며, 분석과 토론을 통해 인공지능의 끊임없는 가능성을 적극 탐구하고 있습니다.
+우리 스터디에 관심 있으신 분, 특히 의료 (meidcal doctor) 또는 AI 분야의 배경을 가진 분은 언제든지 우리 그룹에 참여해 함께 성장하길 바랍니다. (contact: jhak.moon@kaist.ac.kr)
+
+We will upload a recorded video on personal youtube storage. please check the link below.
+
 
 Objective: 
 Paper reading/discussion on VL models (not limited to md (medical domain);  md -> gd (general domain) -> md -> gd ...)
@@ -13,8 +27,10 @@ Agenda:
 
 
 Participants : 
-종학, 현경, 성수
+(KAIST-Edlab) 종학, 현경, 성수, (KAIST-MLIlab) 한결
 
+Presentation Order:
+종학 -> 현경 -> 한결 -> 성수
 
 
 ## **Paper List**:
