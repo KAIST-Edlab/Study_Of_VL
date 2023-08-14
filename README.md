@@ -47,8 +47,8 @@ Thur 10:30 AM - 11:30 AM
 | 2023.05.11 | Week06 | Seongsu | PETL, Multimodal  | LLaMA-Adapter, -V2 | None | |
 | 2023.05.18 | Week07 | Jonghak | Region-guided generation | (CVPR23) RGRG | [Slides](https://docs.google.com/presentation/d/1MAjP1W8hkfvEpzedUD2lwmdlwxFKmnEO3WMZpypav0s/edit?usp=sharing) | |
 | 2023.05.25 | Week08 | Hyungyung | Compositionality | MosaiCLIP | None | |
-| ~~2023.06.01 | None | None | None | None | None | ~~|
-| ~~2023.06.08 | None | None | None | None | None | ~~|
+| ~~2023.06.01~~ | ~~None~~ |~~None~~ | ~~None~~ | ~~None~~ | ~~None~~ | |
+| ~~2023.06.08~~ | ~~None~~ |~~None~~ | ~~None~~ | ~~None~~ | ~~None~~ | |
 | 2023.06.15 | Week9 | Seongsu | Topic TBD | VisualGPTScore: Visio-Linguistic Reasoning with Multimodal Generative Pre-Training Scores  | None | |
 | 2023.06.22 | Week10 | Jonghak | Open-set detection in Genneral & Medical | Recent 6 papers (ViLD, GLIP/GLIP-v2, ...)  | [Slides](https://docs.google.com/presentation/d/11rSvmqbJjtN0rtux0gubC5eCKzmIy6VFyLgKdQHDYMY/edit?usp=sharing) | |
 | 2023.06.29 | Week11 | Hyungyung | Topic TBD | Paper TBD | None | |
@@ -56,5 +56,5 @@ Thur 10:30 AM - 11:30 AM
 | 2023.07.13 | Week13 | Jonghak | Openset detection with LLM |  GPT4RoI: Instruction Tuning Large Language Model on Region-of-Interest | None | |
 | 2023.07.20 | Week14 | Hyungyung | Topic TBD | Reading Radiology Imaging Like The Radiologists | None | |
 | 2023.07.27 | Week15 | Seongsu | Topic TBD | Paper TBD | None | |
-| ~~2023.08.03 | None | None | None | None | None | ~~|
+| ~~2023.08.03~~ | ~~None~~ | ~~None~~ | ~~None~~ | ~~None~~ | ~~None~~ | |
 | 2023.08.10 | Week16 | Jonghak | In-context learning in medical | MedFlamingo | None | |
