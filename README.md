@@ -58,3 +58,4 @@ Thur 10:30 AM - 11:30 AM
 | 2023.07.27 | Week15 | Seongsu | Topic TBD | Paper TBD | None | |
 | ~~2023.08.03~~ | ~~None~~ | ~~None~~ | ~~None~~ | ~~None~~ | ~~None~~ | |
 | 2023.08.10 | Week16 | Jonghak | In-context learning in medical | MedFlamingo | None | |
+| 2023.08.16 | Week17 | Hyungyung | Segmentation with large LLM & Multimodal model | LISA | None | |
