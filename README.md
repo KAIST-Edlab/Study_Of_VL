@@ -51,11 +51,11 @@ Thur 10:30 AM - 11:30 AM
 | ~~2023.06.08~~ | ~~None~~ |~~None~~ | ~~None~~ | ~~None~~ | ~~None~~ | |
 | 2023.06.15 | Week9 | Seongsu | Topic TBD | VisualGPTScore: Visio-Linguistic Reasoning with Multimodal Generative Pre-Training Scores  | None | |
 | 2023.06.22 | Week10 | Jonghak | Open-set detection in Genneral & Medical | Recent 6 papers (ViLD, GLIP/GLIP-v2, ...)  | [Slides](https://docs.google.com/presentation/d/11rSvmqbJjtN0rtux0gubC5eCKzmIy6VFyLgKdQHDYMY/edit?usp=sharing) | |
-| 2023.06.29 | Week11 | Hyungyung | Topic TBD | Paper TBD | None | |
+| 2023.06.29 | Week11 | Hyungyung | Machine World Learning Benchmark | MEWL: Few-shot multimodal word learning with referential uncertainty | None | |
 | 2023.07.06 | Week12 | Seongsu | Topic TBD | Evaluating Progress in Automatic Chest X-Ray Radiology Report Generation | None | |
-| 2023.07.13 | Week13 | Jonghak | Openset detection with LLM |  GPT4RoI: Instruction Tuning Large Language Model on Region-of-Interest | None | |
-| 2023.07.20 | Week14 | Hyungyung | Topic TBD | Reading Radiology Imaging Like The Radiologists | None | |
+| 2023.07.13 | Week13 | Jonghak | Openset detection with LLM | GPT4RoI: Instruction Tuning Large Language Model on Region-of-Interest | None | |
+| 2023.07.20 | Week14 | Hyungyung | Attention & Retrieval based RRG | Reading Radiology Imaging Like The Radiologists | None | |
 | 2023.07.27 | Week15 | Seongsu | Topic TBD | Paper TBD | None | |
 | ~~2023.08.03~~ | ~~None~~ | ~~None~~ | ~~None~~ | ~~None~~ | ~~None~~ | |
 | 2023.08.10 | Week16 | Jonghak | In-context learning in medical | MedFlamingo | None | |
-| 2023.08.16 | Week17 | Hyungyung | Segmentation with large LLM & Multimodal model | LISA | None | |
+| 2023.08.16 | Week17 | Hyungyung | Reasoning Segmentation with Large Multimodal Model| LISA & SAM | [Slide](https://docs.google.com/presentation/d/1TbD_pEz8KhkT2l8MnftqJBVgfPCtfkOwR3Xl4SUdTiQ/edit?usp=sharing) | |
