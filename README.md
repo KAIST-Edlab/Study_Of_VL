@@ -59,4 +59,4 @@ Thur 10:30 AM - 11:30 AM
 | ~~2023.08.03~~ | ~~None~~ | ~~None~~ | ~~None~~ | ~~None~~ | ~~None~~ | |
 | 2023.08.10 | Week16 | Jonghak | In-context learning in medical | MedFlamingo | None | |
 | 2023.08.16 | Week17 | Hyungyung | Reasoning Segmentation with Large Multimodal Model | LISA & SAM | [Slide](https://docs.google.com/presentation/d/1TbD_pEz8KhkT2l8MnftqJBVgfPCtfkOwR3Xl4SUdTiQ/edit?usp=sharing) | |
-| 2023.08.24 | Week18 | Hangyul | Graph Consturction for Ophthalmologic Report generation | CGT | | |
+| 2023.08.24 | Week18 | Hangyul | Graph Consturction for Ophthalmologic Report Generation | CGT | | |
