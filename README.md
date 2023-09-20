@@ -62,5 +62,5 @@ Thur 10:30 AM - 11:30 AM
 | 2023.08.24 | Week18 | Hangyul | Graph Consturction for Ophthalmologic Report Generation | CGT | [Slides](https://drive.google.com/file/d/1jpvwK6Fv0lL6auE5VSBriDdJRqR7tK9N/view?usp=drive_link) | [Video](https://youtu.be/kOj4H4zob1s) |
 | 2023.08.31 | Week19 | Seongsu | | | | |
 | 2023.09.08 | Week20 | Jonghak | | | | |
-| 2023.09.15 | Week21 | Hyungyung | | | | |
+| 2023.09.15 | Week21 | Hyungyung | Anomaly detection + LLM | AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models|[Slides](https://docs.google.com/presentation/d/11eDyx3Xcr3HZe9HB0Vsd5HInwlTFvi_k7EUJoxE-BqM/edit?usp=sharing)| |
 | 2023.09.22 | Week22 | Hangyul | Visual Clues: Bridging Vision and Language Foundations for Image Paragraph Captioning | Image Paragraph Captioning | | |
