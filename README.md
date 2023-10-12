@@ -64,3 +64,7 @@ Thur 10:30 AM - 11:30 AM
 | 2023.09.08 | Week20 | Jonghak | | | | |
 | 2023.09.15 | Week21 | Hyungyung | Anomaly detection + LLM | AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models|[Slides](https://docs.google.com/presentation/d/11eDyx3Xcr3HZe9HB0Vsd5HInwlTFvi_k7EUJoxE-BqM/edit?usp=sharing)| |
 | 2023.09.22 | Week22 | Hangyul | Image Paragraph Captioning | Visual Clues: Bridging Vision and Language Foundations for Image Paragraph Captioning | [Slides](https://drive.google.com/file/d/1GPjOtnhwVJcE8BGdM58N25b22oYEjWWU/view?usp=drive_link) | |
+| 2023.10.05 | Week23 | Seongsu |  |  Learning Concise and Descriptive Attributes for Visual Recognition | [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_Learning_Concise_and_Descriptive_Attributes_for_Visual_Recognition_ICCV_2023_paper.pdf) | |
+| 2023.10.12 | Week24 | Jonghak | zero-shot VQA & GPT4 in radiograph | 1. Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language 2. Exploring the Boundaries of GPT-4 in Radiology
+ | [paper1](https://drive.google.com/file/d/1GPjOtnhwVJcE8BGdM58N25b22oYEjWWU/view?usp=drive_link](https://arxiv.org/abs/2306.16410)https://arxiv.org/abs/2306.16410) [paper2](https://openreview.net/pdf?id=b7JDfaHt8R0) video will be uploaded| |
+
