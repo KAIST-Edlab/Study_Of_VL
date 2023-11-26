@@ -71,5 +71,5 @@ Thur 10:30 AM - 11:30 AM
 | 2023.11.02 | Week27 | Seongsu |  | BiomedJourney: Counterfactual Biomedical Image Generation by Instruction-Learning from Multimodal Patient Journeys | | |
 | 2023.11.09 | Week28 | Jonghak |  | World-to-Words: Grounded Open Vocabulary Acquisition through Fast Mapping in Vision-Language Models | | |
 | 2023.11.16 | Week29 | Hyungyung |  | HALLUSIONBENCH: You See What You Think? Or You Think What You See? | | |
-| 2023.11.23 | Week30 | Hangyul | Model Customization w/ retrieval | Learning Customized Visual Models with Retrieval-Augmented Knowledge | [Slides](https://drive.google.com/file/d/1jpgMVOzz5biNmLRIQP9CN4EQtKLT-1mF/view?usp=drive_link) | |
+| 2023.11.23 | Week30 | Hangyul | Model Customization w/ retrieval | Learning Customized Visual Models with Retrieval-Augmented Knowledge | [Slides](https://drive.google.com/file/d/1jpgMVOzz5biNmLRIQP9CN4EQtKLT-1mF/view?usp=drive_link) | [Video](https://youtu.be/8diek5zIFG0) |
 
