@@ -66,10 +66,10 @@ Thur 10:30 AM - 11:30 AM
 | 2023.09.22 | Week22 | Hangyul | Image Paragraph Captioning | Visual Clues: Bridging Vision and Language Foundations for Image Paragraph Captioning | [Slides](https://drive.google.com/file/d/1GPjOtnhwVJcE8BGdM58N25b22oYEjWWU/view?usp=drive_link) | |
 | 2023.10.05 | Week23 | Seongsu |  |  Learning Concise and Descriptive Attributes for Visual Recognition | [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_Learning_Concise_and_Descriptive_Attributes_for_Visual_Recognition_ICCV_2023_paper.pdf) | |
 | 2023.10.12 | Week24 | Jonghak | zero-shot VQA & GPT4 in radiograph | 1. Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language 2. Exploring the Boundaries of GPT-4 in Radiology | [paper1](https://drive.google.com/file/d/1GPjOtnhwVJcE8BGdM58N25b22oYEjWWU/view?usp=drive_link](https://arxiv.org/abs/2306.16410)https://arxiv.org/abs/2306.16410) [paper2](https://openreview.net/pdf?id=b7JDfaHt8R0) video will be uploaded| [Video](https://youtu.be/edRgUc8EHgg?si=KA-fRFS1ymqBW_60)|
-| 2023.10.19 | Week25 | Hyungyung |  |  | | |
+| 2023.10.19 | Week25 | Hyungyung | Refinement strategy for VLLM | Rephrase, Augment, Reason: Visual Grounding of Questions for Vision-Language Models | [Slides](https://docs.google.com/presentation/d/1ihXoIGYku4JVbuqaSLq2mtuEs_FYcgT7iLNvdw3L-l8/edit?usp=sharing)| |
 | 2023.10.26 | Week26 | Hangyul | Segmentation w/o annotation using vision-language model | GroupViT: Semantic Segmentation Emerges from Text Supervision | [Slides](https://drive.google.com/file/d/1BPspQZFCn6d-6IoJmC_4rNefAVohKGkM/view?usp=sharing)| [Video](https://youtu.be/iHJc1VA5n_M) |
 | 2023.11.02 | Week27 | Seongsu |  | BiomedJourney: Counterfactual Biomedical Image Generation by Instruction-Learning from Multimodal Patient Journeys | | |
 | 2023.11.09 | Week28 | Jonghak |  | World-to-Words: Grounded Open Vocabulary Acquisition through Fast Mapping in Vision-Language Models | | |
-| 2023.11.16 | Week29 | Hyungyung |  | HALLUSIONBENCH: You See What You Think? Or You Think What You See? | | |
+| 2023.11.16 | Week29 | Hyungyung | Benchmark for VLLM | HALLUSIONBENCH: You See What You Think? Or You Think What You See? | | |
 | 2023.11.23 | Week30 | Hangyul | Model Customization w/ retrieval | Learning Customized Visual Models with Retrieval-Augmented Knowledge | [Slides](https://drive.google.com/file/d/1jpgMVOzz5biNmLRIQP9CN4EQtKLT-1mF/view?usp=drive_link) | [Video](https://youtu.be/8diek5zIFG0) |
 
