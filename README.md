@@ -75,5 +75,5 @@ Thur 10:30 AM - 11:30 AM
 | 2023.11.30 | Week31 | Seongsu |  | Learning A Multi-Task Transformer Via Unified And Customized Instruction Tuning For Chest Radiograph Interpretation | | |
 | 2023.12.21 | Week32 | Jonghak |  | Image Captioners Are Scalable Vision Learners Too | | |
 | 2023.12.28 | Week33 | Hyungyung |  | See, Say, and Segment: Teaching LMMs to Overcome False Premises | | |
-| 2024.01.02 | Week34 | Hangyul | Masked Representation Learning in medical VL | Advancing Radiograph Representation Learning with Masked Record Modeling | [Slides](https://drive.google.com/file/d/1uO42nEP9GutJw8fBwEnaM1Cf-ft8yCk3/view?usp=drive_link) | 
+| 2024.01.02 | Week34 | Hangyul | Masked Representation Learning in medical VL | Advancing Radiograph Representation Learning with Masked Record Modeling | [Slides](https://drive.google.com/file/d/1uO42nEP9GutJw8fBwEnaM1Cf-ft8yCk3/view?usp=drive_link) | 
 
