@@ -72,4 +72,8 @@ Thur 10:30 AM - 11:30 AM
 | 2023.11.09 | Week28 | Jonghak |  | World-to-Words: Grounded Open Vocabulary Acquisition through Fast Mapping in Vision-Language Models | | |
 | 2023.11.16 | Week29 | Hyungyung | Benchmark for VLLM | HALLUSIONBENCH: You See What You Think? Or You Think What You See? | | |
 | 2023.11.23 | Week30 | Hangyul | Model Customization w/ retrieval | Learning Customized Visual Models with Retrieval-Augmented Knowledge | [Slides](https://drive.google.com/file/d/1jpgMVOzz5biNmLRIQP9CN4EQtKLT-1mF/view?usp=drive_link) | [Video](https://youtu.be/8diek5zIFG0) |
+| 2023.11.30 | Week31 | Seongsu |  | Learning A Multi-Task Transformer Via Unified And Customized Instruction Tuning For Chest Radiograph Interpretation | | |
+| 2023.12.21 | Week32 | Jonghak |  | Image Captioners Are Scalable Vision Learners Too | | |
+| 2023.12.28 | Week33 | Hyungyung |  | See, Say, and Segment: Teaching LMMs to Overcome False Premises | | |
+| 2024.01.02 | Week34 | Hangyul | Masked Representation Learning in medical VL | Advancing Radiograph Representation Learning with Masked Record Modeling | [Slides](https://drive.google.com/file/d/1uO42nEP9GutJw8fBwEnaM1Cf-ft8yCk3/view?usp=drive_link) | 
 
