@@ -76,5 +76,7 @@ Thur 10:30 AM - 11:30 AM
 | 2023.12.21 | Week32 | Jonghak |  | Image Captioners Are Scalable Vision Learners Too | | |
 | 2023.12.28 | Week33 | Hyungyung |  | See, Say, and Segment: Teaching LMMs to Overcome False Premises | | |
 | 2024.01.02 | Week34 | Hangyul | Masked Representation Learning in medical VL | Advancing Radiograph Representation Learning with Masked Record Modeling | [Slides](https://drive.google.com/file/d/1uO42nEP9GutJw8fBwEnaM1Cf-ft8yCk3/view?usp=drive_link) | 
-| 2023.11.30 | Week31 | Seongsu | Identifying and resolving artifact phenomena in feature maps of ViTs | Vision Transformers Need Registers | [Paper](https://openreview.net/forum?id=2dnO3LLiJ1) | - |
+| 2024.01.11 | Week35 | Seongsu | Identifying and resolving artifact phenomena in feature maps of ViTs | Vision Transformers Need Registers | [Paper](https://openreview.net/forum?id=2dnO3LLiJ1) | - |
+| 2024.01.18 | Week36 | Jonghak | |  A Vision Check-up for Language Models | | - |
+| 2024.01.25 | Week37 | Hyungyung | | Incorporating Visual Experts to Resolve the Information Loss in Multimodal Large Language Models | | - |
 
