@@ -79,5 +79,5 @@ Thur 10:30 AM - 11:30 AM
 | 2024.01.11 | Week35 | Seongsu | Identifying and resolving artifact phenomena in feature maps of ViTs | Vision Transformers Need Registers | [Paper](https://openreview.net/forum?id=2dnO3LLiJ1) | - |
 | 2024.01.18 | Week36 | Jonghak | |  A Vision Check-up for Language Models | | - |
 | 2024.01.25 | Week37 | Hyungyung | | Incorporating Visual Experts to Resolve the Information Loss in Multimodal Large Language Models | | - |
-| 2024.02.02 | Week38 | Hangyul | Multimodal CoT | Multimodal Chain-of-Thought Reasoning in Language Models | [Slides](https://drive.google.com/file/d/1GMSHzkByA7yZZIrNa6vliptb41LeqdMj/view?usp=drive_link) | - |
+| 2024.02.02 | Week38 | Hangyul | Multimodal CoT | Multimodal Chain-of-Thought Reasoning in Language Models | [Slides](https://drive.google.com/file/d/1GMSHzkByA7yZZIrNa6vliptb41LeqdMj/view?usp=drive_link) | [Video](https://youtu.be/3CitB18IbaA) |
 
