@@ -81,3 +81,5 @@ Thur 10:30 AM - 11:30 AM
 | 2024.01.25 | Week37 | Hyungyung | | Incorporating Visual Experts to Resolve the Information Loss in Multimodal Large Language Models | | - |
 | 2024.02.02 | Week38 | Hangyul | Multimodal CoT | Multimodal Chain-of-Thought Reasoning in Language Models | [Slides](https://drive.google.com/file/d/1GMSHzkByA7yZZIrNa6vliptb41LeqdMj/view?usp=drive_link) | [Video](https://youtu.be/3CitB18IbaA) |
 | 2024.02.08 | Week39 | Seongsu |  | RAD-DINO: Exploring Scalable Medical Image Encoders Beyond Text Supervision | [Paper](https://arxiv.org/abs/2401.10815) | - |
+| 2024.02.15 | Week40 | Jonghak |  |  |  | - |
+| 2024.02.22 | Week41 | Hyungyung | Chain-of-Reasoning with Question Generation | [Advancing Large Multi-modal Models with Explicit Chain-of-Reasoning and Visual Question Generation](https://arxiv.org/pdf/2401.10005.pdf)| [Slide](https://docs.google.com/presentation/d/1lkgSwAtCNzc4fLAL6ERXI0v_k3-J8pkS2GOfib7lsSw/edit?usp=sharing)| - |
