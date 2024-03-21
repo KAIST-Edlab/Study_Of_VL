@@ -83,3 +83,5 @@ Thur 10:30 AM - 11:30 AM
 | 2024.02.08 | Week39 | Seongsu |  | RAD-DINO: Exploring Scalable Medical Image Encoders Beyond Text Supervision | [Paper](https://arxiv.org/abs/2401.10815) | - |
 | 2024.02.15 | Week40 | Jonghak |  |  |  | - |
 | 2024.02.22 | Week41 | Hyungyung | Chain-of-Reasoning with Question Generation | [Advancing Large Multi-modal Models with Explicit Chain-of-Reasoning and Visual Question Generation](https://arxiv.org/pdf/2401.10005.pdf)| [Slide](https://docs.google.com/presentation/d/1lkgSwAtCNzc4fLAL6ERXI0v_k3-J8pkS2GOfib7lsSw/edit?usp=sharing)| - |
+| 2024.03.07 | Week42 | Seongsu |  |  |  |   |
+| 2024.03.21 | Week43 | Hangyul | CLIP-Based Zero-Shot Anomaly Detection | AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection | [Slides](https://drive.google.com/file/d/1NCGpale-JYqCoXMobo08TrB_0OHWumku/view?usp=drive_link) |   |
