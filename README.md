@@ -88,4 +88,4 @@ Thur 10:30 AM - 11:30 AM
 | 2024.03.29 | Week44 | Jonghak |  | MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training |  |   |
 | 2024.04.04 | Week45 | Hyungyung |  | Finetuned Multimodal Language Models Are High-Quality Image-Text Data Filters |  |   |
 | 2024.04.11 | Week46 | Seongsu |  | LLM-RadJudge: Achieving Radiologist-Level Evaluation for X-Ray Report Generation |  |   |
-| 2024.04.18 | Week47 | Hangyul | LLM for Multimodal Learning of CXR | LLM-CXR: Instruction-Finetuned LLM for CXR Image Understanding and Generation | [Slides](https://drive.google.com/file/d/1NGmtI57dds4VnOHpPQ7KuJvKgbZN870W/view?usp=sharing) |   |
+| 2024.04.18 | Week47 | Hangyul | LLM for Multimodal Learning of CXR | LLM-CXR: Instruction-Finetuned LLM for CXR Image Understanding and Generation | [Slides](https://drive.google.com/file/d/1NGmtI57dds4VnOHpPQ7KuJvKgbZN870W/view?usp=sharing) |  [Video](https://youtu.be/VMXf3GAqfZk) |
