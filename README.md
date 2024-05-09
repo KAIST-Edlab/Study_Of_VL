@@ -89,3 +89,6 @@ Thur 10:30 AM - 11:30 AM
 | 2024.04.04 | Week45 | Hyungyung |  | Finetuned Multimodal Language Models Are High-Quality Image-Text Data Filters |  |   |
 | 2024.04.11 | Week46 | Seongsu |  | LLM-RadJudge: Achieving Radiologist-Level Evaluation for X-Ray Report Generation |  |   |
 | 2024.04.18 | Week47 | Hangyul | LLM for Multimodal Learning of CXR | LLM-CXR: Instruction-Finetuned LLM for CXR Image Understanding and Generation | [Slides](https://drive.google.com/file/d/1NGmtI57dds4VnOHpPQ7KuJvKgbZN870W/view?usp=sharing) |  [Video](https://youtu.be/VMXf3GAqfZk) |
+| 2024.04.25 | Week48 | Jonghak |  | Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine |  |   |
+| 2024.05.02 | Week49 | Hyungyung |  | BLINK : Multimodal Large Language Models Can See but Not Perceive |  |   |
+| 2024.05.09 | Week50 | Seongsu |  |  |  |   |
