@@ -92,3 +92,4 @@ Thur 10:30 AM - 11:30 AM
 | 2024.04.25 | Week48 | Jonghak |  | Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine |  |   |
 | 2024.05.02 | Week49 | Hyungyung |  | BLINK : Multimodal Large Language Models Can See but Not Perceive |  |   |
 | 2024.05.09 | Week50 | Seongsu |  |  |  |   |
+| 2024.05.23 | Week51 | Hangyul | MiniGPT4 for CXR | Bootstrapping Large Language Models for Radiology Report Generation | [Slides](https://drive.google.com/file/d/1Mc8XEjVTjYtQgjR7Eb-b_bgFcU2rZX-7/view?usp=sharing) |   |
