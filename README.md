@@ -59,23 +59,23 @@ Thur 10:30 AM - 11:30 AM
 | ~~2023.08.03~~ | ~~None~~ | ~~None~~ | ~~None~~ | ~~None~~ | ~~None~~ | |
 | 2023.08.10 | Week16 | Jonghak | In-context learning in medical | MedFlamingo | None | |
 | 2023.08.16 | Week17 | Hyungyung | Reasoning Segmentation with Large Multimodal Model | LISA & SAM | [Slide](https://docs.google.com/presentation/d/1TbD_pEz8KhkT2l8MnftqJBVgfPCtfkOwR3Xl4SUdTiQ/edit?usp=sharing) | |
-| 2023.08.24 | Week18 | Hangyul | Graph Consturction for Ophthalmologic Report Generation | CGT | [Slides](https://drive.google.com/file/d/1jpvwK6Fv0lL6auE5VSBriDdJRqR7tK9N/view?usp=drive_link) | [Video](https://youtu.be/kOj4H4zob1s) |
+| 2023.08.24 | Week18 | Hangyul | Graph Consturction for Ophthalmologic Report Generation | (CVPR'22) CGT | [Slides](https://drive.google.com/file/d/1jpvwK6Fv0lL6auE5VSBriDdJRqR7tK9N/view?usp=drive_link) | [Video](https://youtu.be/kOj4H4zob1s) |
 | 2023.08.31 | Week19 | Seongsu | IE benchmark on radiology reports | RadGraph2: Modeling Disease Progression in Radiology Reports via Hierarchical Information Extraction | [Paper](https://arxiv.org/abs/2308.05046) | - |
 | 2023.09.08 | Week20 | Jonghak | | | | |
 | 2023.09.15 | Week21 | Hyungyung | Anomaly detection + LLM | AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models|[Slides](https://docs.google.com/presentation/d/11eDyx3Xcr3HZe9HB0Vsd5HInwlTFvi_k7EUJoxE-BqM/edit?usp=sharing)| |
-| 2023.09.22 | Week22 | Hangyul | Image Paragraph Captioning | Visual Clues: Bridging Vision and Language Foundations for Image Paragraph Captioning | [Slides](https://drive.google.com/file/d/1GPjOtnhwVJcE8BGdM58N25b22oYEjWWU/view?usp=drive_link) | |
+| 2023.09.22 | Week22 | Hangyul | Image Paragraph Captioning | (NeurIPS'22) Visual Clues: Bridging Vision and Language Foundations for Image Paragraph Captioning | [Slides](https://drive.google.com/file/d/1GPjOtnhwVJcE8BGdM58N25b22oYEjWWU/view?usp=drive_link) | |
 | 2023.10.05 | Week23 | Seongsu | Exploiting LLMs as visual explainers | Learning Concise and Descriptive Attributes for Visual Recognition | [Paper](https://arxiv.org/abs/2308.03685) | - |
 | 2023.10.12 | Week24 | Jonghak | zero-shot VQA & GPT4 in radiograph | 1. Towards Language Models That Can See: Computer Vision Through the LENS of Natural Language 2. Exploring the Boundaries of GPT-4 in Radiology | [paper1](https://drive.google.com/file/d/1GPjOtnhwVJcE8BGdM58N25b22oYEjWWU/view?usp=drive_link](https://arxiv.org/abs/2306.16410)https://arxiv.org/abs/2306.16410) [paper2](https://openreview.net/pdf?id=b7JDfaHt8R0) | [Video](https://youtu.be/edRgUc8EHgg?si=KA-fRFS1ymqBW_60)|
 | 2023.10.19 | Week25 | Hyungyung | Refinement strategy for VLLM | Rephrase, Augment, Reason: Visual Grounding of Questions for Vision-Language Models | [Slides](https://docs.google.com/presentation/d/1ihXoIGYku4JVbuqaSLq2mtuEs_FYcgT7iLNvdw3L-l8/edit?usp=sharing)| |
-| 2023.10.26 | Week26 | Hangyul | Segmentation w/o annotation using vision-language model | GroupViT: Semantic Segmentation Emerges from Text Supervision | [Slides](https://drive.google.com/file/d/1BPspQZFCn6d-6IoJmC_4rNefAVohKGkM/view?usp=sharing)| [Video](https://youtu.be/iHJc1VA5n_M) |
+| 2023.10.26 | Week26 | Hangyul | Segmentation w/o annotation using vision-language model | (CVPR'22) GroupViT: Semantic Segmentation Emerges from Text Supervision | [Slides](https://drive.google.com/file/d/1BPspQZFCn6d-6IoJmC_4rNefAVohKGkM/view?usp=sharing)| [Video](https://youtu.be/iHJc1VA5n_M) |
 | 2023.11.02 | Week27 | Seongsu | InstructPix2Pix adaptable for sequential CXR exams | BiomedJourney: Counterfactual Biomedical Image Generation by Instruction-Learning from Multimodal Patient Journeys | [Paper](https://arxiv.org/abs/2310.10765) | - |
 | 2023.11.09 | Week28 | Jonghak |  | World-to-Words: Grounded Open Vocabulary Acquisition through Fast Mapping in Vision-Language Models | | |
 | 2023.11.16 | Week29 | Hyungyung | Benchmark for VLLM | HALLUSIONBENCH: You See What You Think? Or You Think What You See? | | |
-| 2023.11.23 | Week30 | Hangyul | Model Customization w/ retrieval | Learning Customized Visual Models with Retrieval-Augmented Knowledge | [Slides](https://drive.google.com/file/d/1jpgMVOzz5biNmLRIQP9CN4EQtKLT-1mF/view?usp=drive_link) | [Video](https://youtu.be/8diek5zIFG0) |
+| 2023.11.23 | Week30 | Hangyul | Model Customization w/ retrieval | (CVPR'23) Learning Customized Visual Models with Retrieval-Augmented Knowledge | [Slides](https://drive.google.com/file/d/1jpgMVOzz5biNmLRIQP9CN4EQtKLT-1mF/view?usp=drive_link) | [Video](https://youtu.be/8diek5zIFG0) |
 | 2023.11.30 | Week31 | Seongsu | Benchmark integartion, multi-task & multi-modal learning | Learning A Multi-Task Transformer Via Unified And Customized Instruction Tuning For Chest Radiograph Interpretation | [Paper](https://arxiv.org/abs/2311.01092) | - |
 | 2023.12.21 | Week32 | Jonghak |  | Image Captioners Are Scalable Vision Learners Too | | |
 | 2023.12.28 | Week33 | Hyungyung |  | See, Say, and Segment: Teaching LMMs to Overcome False Premises | | |
-| 2024.01.02 | Week34 | Hangyul | Masked Representation Learning in medical VL | Advancing Radiograph Representation Learning with Masked Record Modeling | [Slides](https://drive.google.com/file/d/1uO42nEP9GutJw8fBwEnaM1Cf-ft8yCk3/view?usp=drive_link) | [Video](https://youtu.be/IcopYuZgxmo) |
+| 2024.01.02 | Week34 | Hangyul | Masked Representation Learning in medical VL | (ICLR'23) Advancing Radiograph Representation Learning with Masked Record Modeling | [Slides](https://drive.google.com/file/d/1uO42nEP9GutJw8fBwEnaM1Cf-ft8yCk3/view?usp=drive_link) | [Video](https://youtu.be/IcopYuZgxmo) |
 | 2024.01.11 | Week35 | Seongsu | Identifying and resolving artifact phenomena in feature maps of ViTs | Vision Transformers Need Registers | [Paper](https://openreview.net/forum?id=2dnO3LLiJ1) | - |
 | 2024.01.18 | Week36 | Jonghak | |  A Vision Check-up for Language Models | | - |
 | 2024.01.25 | Week37 | Hyungyung | | Incorporating Visual Experts to Resolve the Information Loss in Multimodal Large Language Models | | - |
@@ -84,12 +84,12 @@ Thur 10:30 AM - 11:30 AM
 | 2024.02.15 | Week40 | Jonghak |  |  |  | - |
 | 2024.02.22 | Week41 | Hyungyung | Chain-of-Reasoning with Question Generation | [Advancing Large Multi-modal Models with Explicit Chain-of-Reasoning and Visual Question Generation](https://arxiv.org/pdf/2401.10005.pdf)| [Slide](https://docs.google.com/presentation/d/1lkgSwAtCNzc4fLAL6ERXI0v_k3-J8pkS2GOfib7lsSw/edit?usp=sharing)| - |
 | 2024.03.07 | Week42 | Seongsu |  |  |  |   |
-| 2024.03.22 | Week43 | Hangyul | CLIP-Based Zero-Shot Anomaly Detection | AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection | [Slides](https://drive.google.com/file/d/1lqqALf5N8AtMpT1_OrnXj29aBv3ApFJO/view?usp=drive_link) | [Video](https://youtu.be/F6UqaMKTg8k) |
+| 2024.03.22 | Week43 | Hangyul | CLIP-Based Zero-Shot Anomaly Detection | (ICLR'24) AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection | [Slides](https://drive.google.com/file/d/1lqqALf5N8AtMpT1_OrnXj29aBv3ApFJO/view?usp=drive_link) | [Video](https://youtu.be/F6UqaMKTg8k) |
 | 2024.03.29 | Week44 | Jonghak |  | MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training |  |   |
 | 2024.04.04 | Week45 | Hyungyung |  | Finetuned Multimodal Language Models Are High-Quality Image-Text Data Filters |  |   |
 | 2024.04.11 | Week46 | Seongsu |  | LLM-RadJudge: Achieving Radiologist-Level Evaluation for X-Ray Report Generation |  |   |
-| 2024.04.18 | Week47 | Hangyul | LLM for Multimodal Learning of CXR | LLM-CXR: Instruction-Finetuned LLM for CXR Image Understanding and Generation | [Slides](https://drive.google.com/file/d/1NGmtI57dds4VnOHpPQ7KuJvKgbZN870W/view?usp=sharing) |  [Video](https://youtu.be/VMXf3GAqfZk) |
+| 2024.04.18 | Week47 | Hangyul | LLM for Multimodal Learning of CXR | (ICLR'24) LLM-CXR: Instruction-Finetuned LLM for CXR Image Understanding and Generation | [Slides](https://drive.google.com/file/d/1NGmtI57dds4VnOHpPQ7KuJvKgbZN870W/view?usp=sharing) |  [Video](https://youtu.be/VMXf3GAqfZk) |
 | 2024.04.25 | Week48 | Jonghak |  | Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine |  |   |
 | 2024.05.02 | Week49 | Hyungyung |  | BLINK : Multimodal Large Language Models Can See but Not Perceive |  |   |
 | 2024.05.09 | Week50 | Seongsu |  |  |  |   |
-| 2024.05.23 | Week51 | Hangyul | MiniGPT4 for CXR | Bootstrapping Large Language Models for Radiology Report Generation | [Slides](https://drive.google.com/file/d/1Mc8XEjVTjYtQgjR7Eb-b_bgFcU2rZX-7/view?usp=sharing) |   |
+| 2024.05.23 | Week51 | Hangyul | MiniGPT4 for CXR | (AAAI'24) Bootstrapping Large Language Models for Radiology Report Generation | [Slides](https://drive.google.com/file/d/1Mc8XEjVTjYtQgjR7Eb-b_bgFcU2rZX-7/view?usp=sharing) |   |
