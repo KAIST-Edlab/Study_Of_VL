@@ -59,7 +59,7 @@ Thur 10:30 AM - 11:30 AM
 | ~~2023.08.03~~ | ~~None~~ | ~~None~~ | ~~None~~ | ~~None~~ | ~~None~~ | |
 | 2023.08.10 | Week16 | Jonghak | In-context learning in medical | MedFlamingo | None | |
 | 2023.08.16 | Week17 | Hyungyung | Reasoning Segmentation with Large Multimodal Model | LISA & SAM | [Slide](https://docs.google.com/presentation/d/1TbD_pEz8KhkT2l8MnftqJBVgfPCtfkOwR3Xl4SUdTiQ/edit?usp=sharing) | |
-| 2023.08.24 | Week18 | Hangyul | Graph Consturction for Ophthalmologic Report Generation | (CVPR 22) CGT | [Slides](https://drive.google.com/file/d/1jpvwK6Fv0lL6auE5VSBriDdJRqR7tK9N/view?usp=drive_link) | [Video](https://youtu.be/kOj4H4zob1s) |
+| 2023.08.24 | Week18 | Hangyul | Graph Consturction for Ophthalmologic Report Generation | (CVPR 22) Cross-modal Clinical Graph Transformer for Ophthalmic Report Generation | [Slides](https://drive.google.com/file/d/1jpvwK6Fv0lL6auE5VSBriDdJRqR7tK9N/view?usp=drive_link) | [Video](https://youtu.be/kOj4H4zob1s) |
 | 2023.08.31 | Week19 | Seongsu | IE benchmark on radiology reports | RadGraph2: Modeling Disease Progression in Radiology Reports via Hierarchical Information Extraction | [Paper](https://arxiv.org/abs/2308.05046) | - |
 | 2023.09.08 | Week20 | Jonghak | | | | |
 | 2023.09.15 | Week21 | Hyungyung | Anomaly detection + LLM | AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models|[Slides](https://docs.google.com/presentation/d/11eDyx3Xcr3HZe9HB0Vsd5HInwlTFvi_k7EUJoxE-BqM/edit?usp=sharing)| |
