@@ -20,7 +20,7 @@ Paper reading/discussion on VL models (not limited to md (medical domain);  md -
 
 
 ### Time: 
-Thur 10:30 AM - 11:30 AM
+Thur 16:00 AM - 17:30 AM
 
 
 ### Participants and presentation order: 
