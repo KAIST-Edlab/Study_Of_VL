@@ -24,13 +24,13 @@ Thur 10:30 AM - 11:30 AM
 
 
 ### Participants and presentation order: 
-(KAIST-Edlab, 2023-04-06 Joined) 종학, 현경, 성수
+(KAIST-Edlab, 2023-04-06 Joined) 종학, 현경, 성수, 다은
 
 (KAIST-MLIlab, 2023-07-27 Joined) 한결
 
 
 ### Presentation order
-종학 -> 현경 -> 성수 -> 한결
+종학 -> 현경 -> 성수 -> 한결 -> 다은
 
 
 
