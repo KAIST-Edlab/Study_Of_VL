@@ -28,6 +28,8 @@ Thur 16:00 AM - 17:30 AM
 
 (KAIST-MLIlab, 2023-07-27 Joined) 한결
 
+(KAIST-Edlab, 2024-06-08 Joined) 다은
+
 
 ### Presentation order
 종학 -> 현경 -> 성수 -> 한결 -> 다은
