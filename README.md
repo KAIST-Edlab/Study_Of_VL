@@ -96,3 +96,6 @@ Thur 16:00 AM - 17:30 AM
 | 2024.05.09 | Week50 | Seongsu |  |  |  |   |
 | 2024.05.23 | Week51 | Hangyul | MiniGPT4 for CXR | (AAAI 24) Bootstrapping Large Language Models for Radiology Report Generation | [Slides](https://drive.google.com/file/d/1Mc8XEjVTjYtQgjR7Eb-b_bgFcU2rZX-7/view?usp=sharing) | [Video](https://youtu.be/x5U0ISOirVY) |
 | 2024.05.30 | Week52 | Jonghak | Dense captioning | (CVPR 24) Visual Fact Checker: Enabling High-Fidelity Detailed Caption Generation | [Slides](https://docs.google.com/presentation/d/1nD1ZojkpgKhEuId-qhbYdBBhzrvxNDxk_zElRg2pd7Q/edit?usp=sharing) | |
+| 2024.06.13 | Week53 | Hyungyung |  | Why are Visually-Grounded Language Models Bad at Image Classification? | | |
+| 2024.06.20 | Week54 | Seongsu |  | Shadow and Light: Digitally Reconstructed Radiographs for Disease Classification | | |
+| 2024.06.27 | Week55 | Hangyul |  | | | |
