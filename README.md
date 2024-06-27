@@ -98,4 +98,4 @@ Thur 16:00 AM - 17:30 AM
 | 2024.05.30 | Week52 | Jonghak | Dense captioning | (CVPR 24) Visual Fact Checker: Enabling High-Fidelity Detailed Caption Generation | [Slides](https://docs.google.com/presentation/d/1nD1ZojkpgKhEuId-qhbYdBBhzrvxNDxk_zElRg2pd7Q/edit?usp=sharing) | |
 | 2024.06.13 | Week53 | Hyungyung |  | Why are Visually-Grounded Language Models Bad at Image Classification? | | |
 | 2024.06.20 | Week54 | Seongsu |  | Shadow and Light: Digitally Reconstructed Radiographs for Disease Classification | | |
-| 2024.06.27 | Week55 | Hangyul |  | | | |
+| 2024.06.27 | Week55 | Hangyul | Chatting for CXR | WoLF:Wide-scope Large Language Model Framework for CXR Understanding | [Slides](https://drive.google.com/file/d/1D3lt0UxDAKdsHXXghW3jz0e5Wp8YGODr/view?usp=sharing) | |
