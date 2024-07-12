@@ -100,4 +100,4 @@ Thur 16:00 AM - 17:30 AM
 | 2024.06.20 | Week54 | Seongsu |  | Shadow and Light: Digitally Reconstructed Radiographs for Disease Classification | | |
 | 2024.06.27 | Week55 | Hangyul | Chatting for CXR | WoLF:Wide-scope Large Language Model Framework for CXR Understanding | [Slides](https://drive.google.com/file/d/1D3lt0UxDAKdsHXXghW3jz0e5Wp8YGODr/view?usp=sharing) | |
 | 2024.07.05 | Week56 | Daeun | Doctor LLM evaluation | Towards Automatic Evaluation for LLMs’ Clinical Capabilities: Metric, Data, and Algorithm | [Slides](https://docs.google.com/presentation/d/1VagzuvbZ7Jhm8sERSM-yNeqNo2xootCroryZf8kqWYA/edit?usp=sharing) | |
-| 2024.07.11 | Week57 | Jonghak | DR-LLaVA | Dr-LLaVA: Visual Instruction Tuning with Symbolic Clinical Grounding | [Slides](https://docs.google.com/presentation/d/1iwNFm8DgtYjcwLkpyl_voyOrOCMPVX39gHpdTB28JHU/edit?usp=sharing) | |
+| 2024.07.11 | Week57 | Jonghak | Symbolic representation (RL) | Dr-LLaVA: Visual Instruction Tuning with Symbolic Clinical Grounding | [Slides](https://docs.google.com/presentation/d/1iwNFm8DgtYjcwLkpyl_voyOrOCMPVX39gHpdTB28JHU/edit?usp=sharing) | |
