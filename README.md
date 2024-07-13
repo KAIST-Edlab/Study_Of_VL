@@ -82,22 +82,22 @@ Thur 16:00 AM - 17:30 AM
 | 2024.01.18 | Week36 | Jonghak | |  A Vision Check-up for Language Models | | - |
 | 2024.01.25 | Week37 | Hyungyung | | Incorporating Visual Experts to Resolve the Information Loss in Multimodal Large Language Models | | - |
 | 2024.02.02 | Week38 | Hangyul | Multimodal CoT | Multimodal Chain-of-Thought Reasoning in Language Models | [Slides](https://drive.google.com/file/d/1GMSHzkByA7yZZIrNa6vliptb41LeqdMj/view?usp=drive_link) | [Video](https://youtu.be/3CitB18IbaA) |
-| 2024.02.08 | Week39 | Seongsu |  | RAD-DINO: Exploring Scalable Medical Image Encoders Beyond Text Supervision | [Paper](https://arxiv.org/abs/2401.10815) | - |
+| 2024.02.08 | Week39 | Seongsu | Vision Backbones for the Radiology Domain | RAD-DINO: Exploring Scalable Medical Image Encoders Beyond Text Supervision | [Paper](https://arxiv.org/abs/2401.10815) | - |
 | 2024.02.15 | Week40 | Jonghak |  |  |  | - |
 | 2024.02.22 | Week41 | Hyungyung | Chain-of-Reasoning with Question Generation | [Advancing Large Multi-modal Models with Explicit Chain-of-Reasoning and Visual Question Generation](https://arxiv.org/pdf/2401.10005.pdf)| [Slide](https://docs.google.com/presentation/d/1lkgSwAtCNzc4fLAL6ERXI0v_k3-J8pkS2GOfib7lsSw/edit?usp=sharing)| - |
-| 2024.03.07 | Week42 | Seongsu |  |  |  |   |
+| 2024.03.07 | Week42 | Seongsu | Benchmark and Toolkit for Evaluating Medical Vision-Language Models | MultiMedEval: A Benchmark and a Toolkit for Evaluating Medical Vision-Language Models | [Paper](https://arxiv.org/abs/2402.09262) | - |
 | 2024.03.22 | Week43 | Hangyul | CLIP-Based Zero-Shot Anomaly Detection | (ICLR 24) AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection | [Slides](https://drive.google.com/file/d/1lqqALf5N8AtMpT1_OrnXj29aBv3ApFJO/view?usp=drive_link) | [Video](https://youtu.be/F6UqaMKTg8k) |
 | 2024.03.29 | Week44 | Jonghak |  | MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training |  |   |
 | 2024.04.04 | Week45 | Hyungyung |  | Finetuned Multimodal Language Models Are High-Quality Image-Text Data Filters |  |   |
-| 2024.04.11 | Week46 | Seongsu |  | LLM-RadJudge: Achieving Radiologist-Level Evaluation for X-Ray Report Generation |  |   |
+| 2024.04.11 | Week46 | Seongsu | LLM-as-Judge in Radiology Report Generation | LLM-RadJudge: Achieving Radiologist-Level Evaluation for X-Ray Report Generation | [Paper](https://arxiv.org/abs/2404.00998) | - |
 | 2024.04.18 | Week47 | Hangyul | LLM for Multimodal Learning of CXR | (ICLR 24) LLM-CXR: Instruction-Finetuned LLM for CXR Image Understanding and Generation | [Slides](https://drive.google.com/file/d/1NGmtI57dds4VnOHpPQ7KuJvKgbZN870W/view?usp=sharing) |  [Video](https://youtu.be/VMXf3GAqfZk) |
 | 2024.04.25 | Week48 | Jonghak |  | Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine |  |   |
 | 2024.05.02 | Week49 | Hyungyung |  | BLINK : Multimodal Large Language Models Can See but Not Perceive |  |   |
-| 2024.05.09 | Week50 | Seongsu |  |  |  |   |
+| 2024.05.09 | Week50 | Seongsu | LLM-as-Judge in Radiology Report Generation | GREEN: Generative Radiology Report Evaluation and Error Notation | [Paper](https://arxiv.org/abs/2405.03595) | - |
 | 2024.05.23 | Week51 | Hangyul | MiniGPT4 for CXR | (AAAI 24) Bootstrapping Large Language Models for Radiology Report Generation | [Slides](https://drive.google.com/file/d/1Mc8XEjVTjYtQgjR7Eb-b_bgFcU2rZX-7/view?usp=sharing) | [Video](https://youtu.be/x5U0ISOirVY) |
 | 2024.05.30 | Week52 | Jonghak | Dense captioning | (CVPR 24) Visual Fact Checker: Enabling High-Fidelity Detailed Caption Generation | [Slides](https://docs.google.com/presentation/d/1nD1ZojkpgKhEuId-qhbYdBBhzrvxNDxk_zElRg2pd7Q/edit?usp=sharing) | |
 | 2024.06.13 | Week53 | Hyungyung |  | Why are Visually-Grounded Language Models Bad at Image Classification? | | |
-| 2024.06.20 | Week54 | Seongsu |  | Shadow and Light: Digitally Reconstructed Radiographs for Disease Classification | | |
+| 2024.06.20 | Week54 | Seongsu | Generation of Digitally Reconstructed Radiographs from CT images | Shadow and Light: Digitally Reconstructed Radiographs for Disease Classification | [Paper](https://arxiv.org/abs/2406.03688) | - |
 | 2024.06.27 | Week55 | Hangyul | Chatting for CXR | WoLF:Wide-scope Large Language Model Framework for CXR Understanding | [Slides](https://drive.google.com/file/d/1D3lt0UxDAKdsHXXghW3jz0e5Wp8YGODr/view?usp=sharing) | |
 | 2024.07.05 | Week56 | Daeun | Doctor LLM evaluation | Towards Automatic Evaluation for LLMs’ Clinical Capabilities: Metric, Data, and Algorithm | [Slides](https://docs.google.com/presentation/d/1VagzuvbZ7Jhm8sERSM-yNeqNo2xootCroryZf8kqWYA/edit?usp=sharing) | |
 | 2024.07.11 | Week57 | Jonghak | Symbolic representation (RL) | Dr-LLaVA: Visual Instruction Tuning with Symbolic Clinical Grounding | [Slides](https://docs.google.com/presentation/d/1iwNFm8DgtYjcwLkpyl_voyOrOCMPVX39gHpdTB28JHU/edit?usp=sharing) | |
