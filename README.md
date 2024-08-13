@@ -60,7 +60,7 @@ Thur 16:00 AM - 17:30 AM
 | 2023.07.27 | Week15 | Seongsu | RAG for RRG | Retrieval Augmented Chest X-Ray Report Generation using OpenAI GPT models | [Paper](https://arxiv.org/abs/2305.03660) | - |
 | ~~2023.08.03~~ | ~~None~~ | ~~None~~ | ~~None~~ | ~~None~~ | ~~None~~ | |
 | 2023.08.10 | Week16 | Jonghak | In-context learning in medical | MedFlamingo | None | |
-| 2023.08.16 | Week17 | Hyungyung | Reasoning Segmentation with Large Multimodal Model | LISA & SAM | [Slide](https://docs.google.com/presentation/d/1TbD_pEz8KhkT2l8MnftqJBVgfPCtfkOwR3Xl4SUdTiQ/edit?usp=sharing) | |
+| 2023.08.16 | Week17 | Hyungyung | Reasoning Segmentation with Large Multimodal Model | (CVPR 24) LISA & (ICCV 23) SAM | [Slide](https://docs.google.com/presentation/d/1TbD_pEz8KhkT2l8MnftqJBVgfPCtfkOwR3Xl4SUdTiQ/edit?usp=sharing) | |
 | 2023.08.24 | Week18 | Hangyul | Graph Consturction for Ophthalmologic Report Generation | (CVPR 22) Cross-modal Clinical Graph Transformer for Ophthalmic Report Generation | [Slides](https://drive.google.com/file/d/1jpvwK6Fv0lL6auE5VSBriDdJRqR7tK9N/view?usp=drive_link) | [Video](https://youtu.be/kOj4H4zob1s) |
 | 2023.08.31 | Week19 | Seongsu | IE benchmark on radiology reports | RadGraph2: Modeling Disease Progression in Radiology Reports via Hierarchical Information Extraction | [Paper](https://arxiv.org/abs/2308.05046) | - |
 | 2023.09.08 | Week20 | Jonghak | | | | |
@@ -103,4 +103,4 @@ Thur 16:00 AM - 17:30 AM
 | 2024.07.11 | Week57 | Jonghak | Symbolic representation (RL) | Dr-LLaVA: Visual Instruction Tuning with Symbolic Clinical Grounding | [Slides](https://docs.google.com/presentation/d/1iwNFm8DgtYjcwLkpyl_voyOrOCMPVX39gHpdTB28JHU/edit?usp=sharing) | |
 | 2024.07.18 | Week58 | Hyungyung |  |  |  | |
 | 2024.08.01 | Week59 | Seongsu |  |  |  | |
-| 2024.08.08 | Week60 | Hangyul | Chatting-based image retrieval | Chatting Makes Perfect: Chat-based Image Retrieval (NeurIPS 2023) | [Slides](https://drive.google.com/file/d/18Vvo1U13vSznZ9vR-aP-1-OnfqdcM-wF/view?usp=drive_link) | |
+| 2024.08.08 | Week60 | Hangyul | Chatting-based image retrieval | (NeurIPS 23) Chatting Makes Perfect: Chat-based Image Retrieval  | [Slides](https://drive.google.com/file/d/18Vvo1U13vSznZ9vR-aP-1-OnfqdcM-wF/view?usp=drive_link) | |
