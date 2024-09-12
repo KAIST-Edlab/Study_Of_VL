@@ -104,3 +104,6 @@ Thur 16:00 AM - 17:30 AM
 | 2024.07.18 | Week58 | Hyungyung |  |  |  | |
 | 2024.08.01 | Week59 | Seongsu |  |  |  | |
 | 2024.08.08 | Week60 | Hangyul | Chatting-based image retrieval | (NeurIPS 23) Chatting Makes Perfect: Chat-based Image Retrieval  | [Slides](https://drive.google.com/file/d/18Vvo1U13vSznZ9vR-aP-1-OnfqdcM-wF/view?usp=drive_link) | |
+| 2024.08.22 | Week61 | Daeun |  |  |  | |
+| 2024.08.29 | Week62 | Jonghak |  |  |  | |
+| 2024.09.12 | Week63 | Hyungyung |  |  |  | |
