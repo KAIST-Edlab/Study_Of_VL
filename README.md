@@ -104,6 +104,8 @@ Thur 16:00 AM - 17:30 AM
 | 2024.07.18 | Week58 | Hyungyung |  |  |  | |
 | 2024.08.01 | Week59 | Seongsu | Encoder-free Vision-Language Model | Unveiling Encoder-Free Vision-Language Models | [Paper](https://arxiv.org/abs/2406.11832) | - |
 | 2024.08.08 | Week60 | Hangyul | Chatting-based image retrieval | (NeurIPS 23) Chatting Makes Perfect: Chat-based Image Retrieval  | [Slides](https://drive.google.com/file/d/18Vvo1U13vSznZ9vR-aP-1-OnfqdcM-wF/view?usp=drive_link) | |
-| 2024.08.22 | Week61 | Daeun | MLLMs | Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs | [Slide](https://docs.google.com/presentation/d/1jVXeowakwA_nD2cJBDL8lxyNfXYfXXNsfFWnQWJzJ9M/edit?usp=sharing) | |
+| 2024.08.22 | Week61 | Daeun | MLLMs | Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs | [Slides](https://docs.google.com/presentation/d/1jVXeowakwA_nD2cJBDL8lxyNfXYfXXNsfFWnQWJzJ9M/edit?usp=sharing) | |
 | 2024.08.29 | Week62 | Jonghak | Knowledge Graph for CXR | Uncovering Knowledge Gaps in Radiology Report Generation Models through Knowledge Graphs | [slides](https://docs.google.com/presentation/d/1fzqi5UQZ8gQ2P9h3-uUDJ4sALqqiXIQDQDA2MXrxrL4/edit#slide=id.g2b8fc71686f_0_116) | |
-| 2024.09.12 | Week63 | Hyungyung |  |  |  | |
+| 2024.09.12 | Week63 | Hyungyung |  | Look, Compare, Decide: Alleviating Hallucination in Large Vision-Language Models via Multi-View Multi-Path Reasoning |  | |
+| 2024.09.19 | Week64 | Seongsu |  | Law of Vision Representation in MLLMs |  | |
+| 2024.09.27 | Week65 | Hangyul | Reasoning Segmentation with Large Multimodal Model | (CVPR 24) GSVA: Generalized Segmentation via Multimodal LLMs | [Slides](https://drive.google.com/file/d/1t3kEZVbkwb8KV6pMirys7QuNnDBximif/view?usp=sharing) | |
