@@ -109,3 +109,4 @@ Thur 16:00 AM - 17:30 AM
 | 2024.09.12 | Week63 | Hyungyung |  | Look, Compare, Decide: Alleviating Hallucination in Large Vision-Language Models via Multi-View Multi-Path Reasoning |  | |
 | 2024.09.19 | Week64 | Seongsu |  | Law of Vision Representation in MLLMs |  | |
 | 2024.09.27 | Week65 | Hangyul | Reasoning Segmentation with Large Multimodal Model | (CVPR 24) GSVA: Generalized Segmentation via Multimodal LLMs | [Slides](https://drive.google.com/file/d/1t3kEZVbkwb8KV6pMirys7QuNnDBximif/view?usp=sharing) | |
+| 2024.10.03 | Week66 | Daeun | Multi-modal medical consultation | Med-PMC: Medical Personalized Multi-modal Consultation with a Proactive Ask-First-Observe-Next Paradigm | [Slides](https://docs.google.com/presentation/d/1jKpzr8Y0-aBgcLex7B22Rd39CrJNZMpS4aplrLM3TC4/edit#slide=id.p) | |
