@@ -20,7 +20,7 @@ Paper reading/discussion on VL models (not limited to md (medical domain);  md -
 
 
 ### Time: 
-Thur 16:00 AM - 17:30 AM
+Fri. 10:30 AM - 11:30 AM
 
 
 ### Participants and presentation order: 
@@ -114,3 +114,5 @@ Thur 16:00 AM - 17:30 AM
 | 2024.10.25 | Week68 | Hyungyung | | CoVT-CXR: Building Chain of Visual Thought for Interpretable Chest X-Ray Diagnosis | | |
 | 2024.11.01 | Week69 | Seongsu | | | | |
 | 2024.11.08 | Week70 | Hangyul | | | | |
+| 2024.11.15 | Week70 | Daeun | | | | |
+| 2024.11.22 | Week70 | Jonghak | | (EMNLP 24) RaTEScore: A Metric for Radiology Report Generation | | |
