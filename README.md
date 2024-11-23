@@ -110,9 +110,9 @@ Fri. 10:30 AM - 11:30 AM
 | 2024.09.19 | Week64 | Seongsu |  | Law of Vision Representation in MLLMs |  | |
 | 2024.09.27 | Week65 | Hangyul | Reasoning Segmentation with Large Multimodal Model | (CVPR 24) GSVA: Generalized Segmentation via Multimodal LLMs | [Slides](https://drive.google.com/file/d/1t3kEZVbkwb8KV6pMirys7QuNnDBximif/view?usp=sharing) | |
 | 2024.10.03 | Week66 | Daeun | Multi-modal medical consultation | Med-PMC: Medical Personalized Multi-modal Consultation with a Proactive Ask-First-Observe-Next Paradigm | [Slides](https://docs.google.com/presentation/d/1jKpzr8Y0-aBgcLex7B22Rd39CrJNZMpS4aplrLM3TC4/edit#slide=id.p) | |
-| 2024.10.18 | Week67 | Jonghak | | (ECCV 24) HERGen: Elevating Radiology Report Generation with Longitudinal Data | | |
+| 2024.10.18 | Week67 | Jonghak | | (ECCV 24) HERGen: Elevating Radiology Report Generation with Longitudinal Data | [Slides](https://docs.google.com/presentation/d/1VTBNn-QyXr8bWsZkdElUGeZBUWmlxC5otDNIp_6TTIg/edit?usp=sharing)| |
 | 2024.10.25 | Week68 | Hyungyung | | CoVT-CXR: Building Chain of Visual Thought for Interpretable Chest X-Ray Diagnosis | | |
 | 2024.11.01 | Week69 | Seongsu | | | | |
 | 2024.11.08 | Week70 | Hangyul | | | | |
 | 2024.11.15 | Week70 | Daeun | | | | |
-| 2024.11.22 | Week70 | Jonghak | | (EMNLP 24) RaTEScore: A Metric for Radiology Report Generation | | |
+| 2024.11.22 | Week70 | Jonghak | | (EMNLP 24) RaTEScore: A Metric for Radiology Report Generation | [Slides](https://drive.google.com/file/d/1VnV1szkfGUTyW2j93y1Nz812RpKQd9rD/view?usp=sharing)| |
