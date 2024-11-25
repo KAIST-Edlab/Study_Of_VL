@@ -113,6 +113,6 @@ Fri. 10:30 AM - 11:30 AM
 | 2024.10.18 | Week67 | Jonghak | | (ECCV 24) HERGen: Elevating Radiology Report Generation with Longitudinal Data | [Slides](https://docs.google.com/presentation/d/1VTBNn-QyXr8bWsZkdElUGeZBUWmlxC5otDNIp_6TTIg/edit?usp=sharing)| |
 | 2024.10.25 | Week68 | Hyungyung | | CoVT-CXR: Building Chain of Visual Thought for Interpretable Chest X-Ray Diagnosis | | |
 | 2024.11.01 | Week69 | Seongsu | | | | |
-| 2024.11.08 | Week70 | Hangyul | | | | |
+| 2024.11.08 | Week70 | Hangyul | | (ECCV 24) Contrastive Learning with Counterfactual Explanations for Radiology Report Generation| [Slides](https://drive.google.com/file/d/1IDmnXLTSifgzNusfXbb-eoCPslXbUxcT/view?usp=drive_link) | |
 | 2024.11.15 | Week71 | Daeun | | | | |
 | 2024.11.22 | Week72 | Jonghak | | (EMNLP 24) RaTEScore: A Metric for Radiology Report Generation | [Slides](https://drive.google.com/file/d/1VnV1szkfGUTyW2j93y1Nz812RpKQd9rD/view?usp=sharing)| |
