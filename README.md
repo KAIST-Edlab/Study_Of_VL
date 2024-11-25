@@ -108,11 +108,11 @@ Fri. 10:30 AM - 11:30 AM
 | 2024.08.29 | Week62 | Jonghak | Knowledge Graph for CXR | Uncovering Knowledge Gaps in Radiology Report Generation Models through Knowledge Graphs | [slides](https://docs.google.com/presentation/d/1fzqi5UQZ8gQ2P9h3-uUDJ4sALqqiXIQDQDA2MXrxrL4/edit#slide=id.g2b8fc71686f_0_116) | |
 | 2024.09.12 | Week63 | Hyungyung |  | Look, Compare, Decide: Alleviating Hallucination in Large Vision-Language Models via Multi-View Multi-Path Reasoning |  | |
 | 2024.09.19 | Week64 | Seongsu |  | Law of Vision Representation in MLLMs |  | |
-| 2024.09.27 | Week65 | Hangyul | Reasoning Segmentation with Large Multimodal Model | (CVPR 24) GSVA: Generalized Segmentation via Multimodal LLMs | [Slides](https://drive.google.com/file/d/1t3kEZVbkwb8KV6pMirys7QuNnDBximif/view?usp=sharing) | |
+| 2024.09.27 | Week65 | Hangyul | Reasoning Segmentation with Large Multimodal Model | (CVPR 24) GSVA: Generalized Segmentation via Multimodal LLMs | [Slides](https://drive.google.com/file/d/1t3kEZVbkwb8KV6pMirys7QuNnDBximif/view?usp=sharing) | [Video](https://youtu.be/kasikVvkoxk) |
 | 2024.10.03 | Week66 | Daeun | Multi-modal medical consultation | Med-PMC: Medical Personalized Multi-modal Consultation with a Proactive Ask-First-Observe-Next Paradigm | [Slides](https://docs.google.com/presentation/d/1jKpzr8Y0-aBgcLex7B22Rd39CrJNZMpS4aplrLM3TC4/edit#slide=id.p) | |
 | 2024.10.18 | Week67 | Jonghak | | (ECCV 24) HERGen: Elevating Radiology Report Generation with Longitudinal Data | [Slides](https://docs.google.com/presentation/d/1VTBNn-QyXr8bWsZkdElUGeZBUWmlxC5otDNIp_6TTIg/edit?usp=sharing)| |
 | 2024.10.25 | Week68 | Hyungyung | | CoVT-CXR: Building Chain of Visual Thought for Interpretable Chest X-Ray Diagnosis | | |
 | 2024.11.01 | Week69 | Seongsu | | | | |
-| 2024.11.08 | Week70 | Hangyul | | (ECCV 24) Contrastive Learning with Counterfactual Explanations for Radiology Report Generation| [Slides](https://drive.google.com/file/d/1IDmnXLTSifgzNusfXbb-eoCPslXbUxcT/view?usp=drive_link) | |
+| 2024.11.08 | Week70 | Hangyul | | (ECCV 24) Contrastive Learning with Counterfactual Explanations for Radiology Report Generation| [Slides](https://drive.google.com/file/d/1IDmnXLTSifgzNusfXbb-eoCPslXbUxcT/view?usp=drive_link) | [Video](https://youtu.be/dtTx5Ey4bzY) |
 | 2024.11.15 | Week71 | Daeun | | | | |
 | 2024.11.22 | Week72 | Jonghak | | (EMNLP 24) RaTEScore: A Metric for Radiology Report Generation | [Slides](https://drive.google.com/file/d/1VnV1szkfGUTyW2j93y1Nz812RpKQd9rD/view?usp=sharing)| |
