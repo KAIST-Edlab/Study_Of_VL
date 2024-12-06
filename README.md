@@ -117,5 +117,5 @@ Fri. 10:30 AM - 11:30 AM
 | 2024.11.15 | Week71 | Daeun | | | | |
 | 2024.11.22 | Week72 | Jonghak | | (EMNLP 24) RaTEScore: A Metric for Radiology Report Generation | [Slides](https://drive.google.com/file/d/1VnV1szkfGUTyW2j93y1Nz812RpKQd9rD/view?usp=sharing)| |
 | 2024.11.29 | Week73 | Hyungyung | | | | |
-| 2024.12.06 | Week74 | Hangyul | Eye-gazed data incorporation for CXR pretraining | (NeurIPS 24) Eye-gaze Guided Multi-modal Alignment for Medical Representation Learning | [Slides](https://drive.google.com/file/d/1QBx-J1DiIV2FHfkYJ29mI9e5YuqsfK4r/view?usp=drive_link) | |
+| 2024.12.06 | Week74 | Hangyul | Eye-gazed data incorporation for CXR pretraining | (NeurIPS 24) Eye-gaze Guided Multi-modal Alignment for Medical Representation Learning | [Slides](https://drive.google.com/file/d/1QBx-J1DiIV2FHfkYJ29mI9e5YuqsfK4r/view?usp=drive_link) | [Video](https://youtu.be/C3MiLXF4sfA) |
 | 2024.12.13 | Week75 | Seongsu | | | | |
